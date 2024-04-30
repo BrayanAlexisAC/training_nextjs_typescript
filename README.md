@@ -1,3 +1,6 @@
+# training_nextjs_typescript
+This repository began for training for introduce typescript in react, used technologies like next.js and tailwind
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
